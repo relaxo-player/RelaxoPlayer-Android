@@ -6,7 +6,7 @@
 </p>
 <h3 align="center">The best IPTV video player for Android</h3>
 <p align="center">
-  Block every adbreak and <b>walk away refreshed</b>. 
+  Block every adbreak and walk away refreshed. 
 </p>
   
   <p align="center">
@@ -55,9 +55,11 @@ You should be able to leave your TV on 24/7 and walk away refreshed.
 
 We put ⌞ **ADBLOCK** ⌝  `INSIDE THE TV` and gave users a way to choose what plays instead of ads, we then added **CONTENT-AWARE TIMERS** to make the evening TV ritual a serene experiece.
 
-[Relaxo Player](https://relaxoplayer.com) is a video player for IPTV on Android. It can block ads and other annoyances automatically, even while unattended, so you get continuous background noise bliss from any 🛑 LIVE stream. 
+### What is it?
 
-No hardware or setup required, just install the app, add your M3U Playlist and begin watching your favorite channels, now endlessly commercial-free.
+[Relaxo Player](https://relaxoplayer.com) is an IPTV video player app for Android. It can block TV ads and other annoyances automatically, even while unattended, so you get continuous background noise bliss from any 🛑 LIVE stream. 
+
+No hardware or setup required. Just install, add your existing M3U Playlist and begin watching your favorite TV channels - now endlessly commercial-free.
 
 <a id="screenshots"></a>
 
@@ -120,4 +122,4 @@ Give a ⭐️ if you like where this is going!
 <a id="socials"></a>
 ### Stay in touch
 
-Feel free to stay updated via the [newsletter](https://relaxoplayer.com/newsletter/subscribe). Bear with us as we come out of stealth into hostile territory.  Support for the open beta is available in this repo and via website contact form or email shown there.
+Feel free to stay updated via the [newsletter](https://relaxoplayer.com/newsletter/subscribe). Bear with us as we canonball into the industry. Support for the open beta is available in this repo and via website contact form or email shown there.
