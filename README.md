@@ -110,7 +110,7 @@ Give a ⭐️ if you like where this is going!
 
 
 <a id="general-info"></a>
-### General Information:
+### General Info
 -  You can find all the releases in the releases section.<a id="general-info"></a>
 <a id="report-issues"></a>
 -  You can also create issues and give suggestions/feedback here (follow template)
@@ -118,6 +118,6 @@ Give a ⭐️ if you like where this is going!
 -  Crowd-sourced translate of strings.xml file into your language is welcome (follow ettiquette)
 
 <a id="socials"></a>
-### Social Contacts
+### Stay in touch
 
-Currently unavailable. Bear with us as we come out of stealth into hostile territory. Feel free to stay updated via the [newsletter](https://relaxoplayer.com/newsletter/subscribe). Support for the open beta is available in this repo and via website contact form or email shown there.
+Feel free to stay updated via the [newsletter](https://relaxoplayer.com/newsletter/subscribe). Bear with us as we come out of stealth into hostile territory.  Support for the open beta is available in this repo and via website contact form or email shown there.
