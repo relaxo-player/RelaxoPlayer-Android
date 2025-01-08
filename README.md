@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="./screenshots/other/andr_dark.png" width="462px" alt="RelaxoPlayer for Android" />
-   <img src="./screenshots/other/andr.png" width="462px" alt="RelaxoPlayer for Android" />
+   <source media="(prefers-color-scheme: dark)" srcset="./screenshots/other/andr_dark.png" width="300px" alt="RelaxoPlayer for Android" />
+   <img src="./screenshots/other/andr.png" width="300px" alt="RelaxoPlayer for Android" />
  </picture>
 </p>
 <h3 align="center">Adblock Live TV with the best IPTV player</h3>
@@ -31,7 +31,7 @@
 
 Relaxo Player is an IPTV video player for Android. It can block TV ads and other annoyances automatically, even while unattended, so you get continuous background noise bliss from any LIVE stream. 
 
-[<img alt="Get it on GitHub" height="80" src="https://i.ibb.co/q0mdc4Z/get-it-on-github.png"/>](https://github.com/relaxo-player/RelaxoPlayer-Android/releases/latest) [<img alt="Get it on Our Website" height="80" width="300" src="./screenshots/other/get-it-website.png"/>](https://relaxoplayer.com/download#apks)
+[<img alt="Get it on GitHub" height="80" src="https://i.ibb.co/q0mdc4Z/get-it-on-github.png"/>](https://github.com/relaxo-player/RelaxoPlayer-Android/releases/latest) [<img alt="Get it on Our Website" height="80" src="./screenshots/other/get-it-website.png"/>](https://relaxoplayer.com/download#apks)
 
 <a id="beta-tester"></a>
 To get started add your M3U playlist or use as external video player. For more info and to download Relaxo Player for Android, visit our website https://relaxoplayer.com/.
@@ -71,7 +71,7 @@ We put ⌞ **ADBLOCK** ⌝  `INSIDE THE TV` and gave users a way to choose what 
 ### How It Works
 <a id="tech-info"></a>
 -  The Adblock works by latching onto the Live broadcast logo continuously
--  Double tap the screen at any time to kill ads instantly
+-  Double tap the screen at any time to kill ads instantly `i.e. temporarily fallback from A -> B -> C`
 
 
 <a id="general-info"></a>
