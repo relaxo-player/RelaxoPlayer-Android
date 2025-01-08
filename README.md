@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="./screenshots/other/andr_dark.svg" width="300px" alt="RelaxoPlayer for Android" />
-   <img src="./screenshots/other/andr.svg" width="300px" alt="RelaxoPlayer for Android" />
+   <source media="(prefers-color-scheme: dark)" srcset="./screenshots/other/andr_dark.png" width="462px" alt="RelaxoPlayer for Android" />
+   <img src="./screenshots/other/andr.png" width="462px" alt="RelaxoPlayer for Android" />
  </picture>
 </p>
 <h3 align="center">Adblock Live TV with the best IPTV player</h3>
@@ -37,12 +37,12 @@ Relaxo Player is an IPTV video player for Android. It can block TV ads and other
 To get started add your M3U playlist or use as external video player. For more info and to download Relaxo Player for Android, visit our website https://relaxoplayer.com/.
 
 <a id="screenshots"></a>
-| <img src="./screenshots/1.jpg" width="500"/> | <img src="./screenshots/2.jpg" width="500"/>  |
+| <img src="./screenshots/1.jpeg" width="500"/> | <img src="./screenshots/2.jpeg" width="500"/>  |
 | ----------------------------------------------------------- | --------------------------------------------------------------- |
 
 #### TV-
 
-| <img src="./screenshots/5.jpg" width="500"/> | <img src="./screenshots/6.jpg" width="500"/> |
+| <img src="./screenshots/3.jpeg" width="500"/> | <img src="./screenshots/4.jpeg" width="500"/> |
 | ----------------------------------------------------------- | --------------------------------------------------------------- |
 
 ## 💡 Project Idea <a id="the-idea"></a>
