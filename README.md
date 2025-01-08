@@ -40,9 +40,7 @@ To get started add your M3U playlist or use as external video player. For more i
 | <img src="./screenshots/1.jpg" width="500"/> | <img src="./screenshots/2.jpg" width="500"/>  |
 | ----------------------------------------------------------- | --------------------------------------------------------------- |
 
-> [!NOTE]
->
-> Works on phone and TV. Designed for DigitalTV -> local IPTV. Playlists with more than 300 channels not officially supported.
+#### TV-
 
 | <img src="./screenshots/5.jpg" width="500"/> | <img src="./screenshots/6.jpg" width="500"/> |
 | ----------------------------------------------------------- | --------------------------------------------------------------- |
