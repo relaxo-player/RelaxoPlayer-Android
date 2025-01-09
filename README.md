@@ -47,11 +47,11 @@ To get started add your M3U playlist or use as external video player. For more i
 
 ## 💡 Project Idea <a id="the-idea"></a>
 
-Loud repeative ads make us feel groggy.
+Loud repetitive ads make us feel groggy.
 
 You should be able to leave your TV on 24/7 and walk away refreshed. 
 
-We put ⌞ **ADBLOCK** ⌝  `INSIDE THE TV` and gave users a way to choose what plays instead of ads, we then added **CONTENT-AWARE TIMERS** to make the evening TV ritual a serene experiece.
+We put ⌞ **ADBLOCK** ⌝  `INSIDE THE TV` and gave users a way to choose what plays instead of ads, we then added **CONTENT-AWARE TIMERS** to make the evening TV ritual a serene experience.
 
 
 ## ☠️ Killer Features <a id="features"></a>
@@ -61,7 +61,7 @@ We put ⌞ **ADBLOCK** ⌝  `INSIDE THE TV` and gave users a way to choose what 
   - **We 🤜 bump you away from all undesirable shows**
   - ⩇⩇:⩇⩇ **Smart timers** jolt you to your next show
   - **InstaMute**  `SWIPE RIGHT` to temporarily mute annoying sounds
-  - **Inkblot-out the logo** inks over broadcast logos for total emersion
+  - **Inkblot-out the logo** inks over broadcast logos for total immersion
 
 > [!WARNING]
 >
@@ -77,7 +77,7 @@ We put ⌞ **ADBLOCK** ⌝  `INSIDE THE TV` and gave users a way to choose what 
 <a id="general-info"></a>
 ### General Info
 -  You can find all the releases in the [releases](https://github.com/relaxo-player/RelaxoPlayer-Android/releases/latest)
- section.
+ section
 <a id="report-issues"></a>
 -  Create issues and give suggestions or feedback here
 <a id="help-translate"></a>
@@ -85,7 +85,7 @@ We put ⌞ **ADBLOCK** ⌝  `INSIDE THE TV` and gave users a way to choose what 
 
 > [!NOTE]
 >
-> Currently in open beta.
+> Currently in open beta
 
 <a id="socials"></a>
 Stay updated on big releases via the [newsletter](https://relaxoplayer.com/newsletter/subscribe). Support and [contact](https://relaxoplayer.com/contact) via website, email.
