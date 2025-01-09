@@ -6,7 +6,7 @@
 </p>
 <h3 align="center">Adblock Live TV with the best IPTV player</h3>
 <p align="center">
-  Block every adbreak and walk away refreshed. 
+  Block every ad-break and walk away refreshed. 
 </p>
   
   <p align="center">
