@@ -34,7 +34,7 @@ Relaxo Player is an IPTV video player for Android. It can block TV ads and other
 [<img alt="Get it on GitHub" height="80" src="./screenshots/other/get-it-gh.png"/>](https://github.com/relaxo-player/RelaxoPlayer-Android/releases/latest) [<img alt="Get it on Our Website" height="80" src="./screenshots/other/get-it-website.png"/>](https://relaxoplayer.com/download#apks)
 
 <a id="beta-tester"></a>
-To get started add your M3U playlist or use as external video player. For more info and to download Relaxo Player for Android, visit our website https://relaxoplayer.com/.
+To get started add your M3U playlist with EPG.xml for guide data, or use as external video player. For more info and to download Relaxo Player for Android, visit our website https://relaxoplayer.com/.
 
 <a id="screenshots"></a>
 | <img src="./screenshots/1.jpeg" width="500"/> | <img src="./screenshots/2.jpeg" width="500"/>  |
